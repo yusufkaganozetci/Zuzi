@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zuzi
+  - Destroyer
+  - Egg
+  - Puzzle
+  - Rocket
+  - LavaBall
+  - Key
+  - MusicPlayer
+  - FinishScene
+  - SoundManager
+  - Winnable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 382447057
+    locked: 0
+  - name: Enemy
+    uniqueID: 2957481139
+    locked: 0
+  - name: Collectable
+    uniqueID: 981480829
+    locked: 0
+  - name: Zuzi
+    uniqueID: 1664503793
+    locked: 0
+  - name: Prison Bar
+    uniqueID: 1225413141
+    locked: 0
+  - name: Buzz
+    uniqueID: 2456556507
+    locked: 0
+  - name: PuzzleBackground
+    uniqueID: 622358179
+    locked: 0
+  - name: PuzzleForeground
+    uniqueID: 163932723
+    locked: 0
+  - name: Canvas
+    uniqueID: 1304271613
+    locked: 0
+  - name: Transition
+    uniqueID: 536222241
+    locked: 0

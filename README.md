@@ -3,5 +3,10 @@
 
 # Important Note
   This game is done for only educational purposes. It doesn't have any commercial purpose.
+  
+# Game Links
+  Gameplay Video Link : https://drive.google.com/file/d/1LpwT3ECAMWq9zz-fph-rDbIZqxXxK4WZ/view?usp=sharing
+  Play Zuzi (Itch.io link) : https://yusufkaganozetci.itch.io/zuzi
+  
 
 

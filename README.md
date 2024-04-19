@@ -6,6 +6,7 @@
   
 # Game Links
   Gameplay Video Link : https://drive.google.com/file/d/1LpwT3ECAMWq9zz-fph-rDbIZqxXxK4WZ/view?usp=sharing
+  
   Play Zuzi (Itch.io link) : https://yusufkaganozetci.itch.io/zuzi
   
 
